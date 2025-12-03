@@ -1,0 +1,11 @@
+- [x] Add profile picture container to hero section in index.html
+- [x] Update CSS for profile picture styling with flexbox
+- [x] Test changes in browser
+- [ ] Get user feedback
+- [x] Add theme toggle button to navigation in index.html
+- [x] Update footer in index.html with current year and additional links
+- [x] Enhance styles in style.css for better animations, responsiveness, and accessibility
+- [x] Add functionality in script.js for theme toggle, form validation, and improved interactions
+- [ ] Test the changes in different browsers and devices
+- [ ] Validate accessibility using tools like Lighthouse
+- [ ] Get user feedback on the updated UI
